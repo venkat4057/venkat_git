@@ -1,3 +1,0 @@
-isdciosc
-bucsdco
-dds
